@@ -1,4 +1,4 @@
-# Mergesort Projesi
+# Merge sort Projesi
 Veri yapıları ve algoritmalar proje ödevi
 
 [16,21,11,8,12,22] -> Merge Sort
